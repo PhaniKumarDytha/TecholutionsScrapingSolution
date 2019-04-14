@@ -10,3 +10,5 @@ The parsing of the dates which are there in the format '1 day ago', '2 days ago'
 
 Packages Used: 
 pandas, selenium, dateparser
+
+PS: The complete excercise is done in Firefox browser
